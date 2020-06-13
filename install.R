@@ -9,4 +9,5 @@
  install.packages('raster')        
  install.packages('DescTools')     
  install.packages('lubridate')     
- install.packages('IRdisplay')   
+ install.packages('IRdisplay')
+ install.packages('pacman')

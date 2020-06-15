@@ -1,6 +1,6 @@
 # publicsector_ethnicity
 This is the repo for a Jupyter Notebook that explores ethnicity data on Scottish public sector workforces.</br>
-This R Notebook is best viewed locally in Jupyter Lab or in Binder. but most features still render if viewed on NB Viewer.
+This R Notebook is best viewed locally in Jupyter Lab or in Binder, but most features still render if viewed in NB Viewer.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/visualisedatadevelopment/publicsector_ethnicity/master?filepath=Presenting_the_PSED_Dataset.ipynb)
 
